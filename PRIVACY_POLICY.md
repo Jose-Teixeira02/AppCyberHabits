@@ -173,4 +173,5 @@ Email: [jose.teixeira.inq@gmail.com](mailto:jose.teixeira.inq@gmail.com)
 
 ---
 
-*This Privacy Policy is published at: [https://jose-teixeira02.github.io/AppCyberHabits/Privacy%20Policies](https://github.com/Jose-Teixeira02/AppCyberHabits/blob/main/Privacy%20Policies)*
+*This Privacy Policy is published at: [Privacy Policies](https://github.com/Jose-Teixeira02/AppCyberHabits/blob/main/PRIVACY_POLICY.md)*
+
