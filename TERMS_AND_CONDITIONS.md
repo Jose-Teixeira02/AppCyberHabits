@@ -203,4 +203,5 @@ Email: [jose.teixeira.inq@gmail.com](mailto:jose.teixeira.inq@gmail.com)
 
 ---
 
-*These Terms and Conditions are published at: [https://jose-teixeira02.github.io/AppCyberHabits/Terms%20and%20Conditions](https://github.com/Jose-Teixeira02/AppCyberHabits/blob/main/Terms%20and%20Conditions)*
+*These Terms and Conditions are published at: [Terms & Conditions](https://github.com/Jose-Teixeira02/AppCyberHabits/blob/main/TERMS_AND_CONDITIONS.md)*
+
